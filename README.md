@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShubhangiBhardwaj 
-- 👀 I am a dedicated Full Stack Web Developer.
-- 🌱 Skills: HTML,CSS, JS, Reactjs, Nodejs, Expressjs, MongoDB, SQL, Python, Web3, DApps, JAVA.
+- 👀 I am a dedicated Front end Web Developer.
+- 🌱 Skills: Java, HTML, CSS, JS, Selenium, DBMS, OOPS
 
 
